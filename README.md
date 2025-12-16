@@ -1,5 +1,8 @@
 # Head & Tails Game
 
+##bMY site is live at:
+https://yousof2000.github.io/Head-Tails-Game/
+
 ## Description
 An interactive coin-flip game where the player selects either head or tail and competes against a computer-generated result. The game provides instant feedback and tracks results over time.
 

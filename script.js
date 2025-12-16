@@ -12,7 +12,7 @@ function PlayGames(guess) {
     document.querySelector('.finalResolt').innerHTML = 'Flipping...';
 
 
-    // 1. إعادة تعيين الدوران (مهم جداً للبدء من جديد)
+    
     coin.style.transform = 'rotateY(0deg)';
 
     let resolt = guessTheMove();

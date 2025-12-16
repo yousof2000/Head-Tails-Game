@@ -9,6 +9,7 @@ An interactive coin-flip game where the player selects either head or tail and c
 - Win and loss detection based on matching results.
 - Score tracking for wins and losses.
 - Persistent score storage using Local Storage.
+- Reset button to clear the score and start a new game.
 
 ## Technologies Used
 - HTML

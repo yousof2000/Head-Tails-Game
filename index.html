@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Head & Tails</title>
+    <link rel="stylesheet" href="head&tails.css">
+</head>
+
+<body>
+    <div class="main-content">
+
+        <div class="game-container">
+
+            <h2 class="game-title">Flip the Coin!</h2>
+
+            <div class="coin">
+                <div class="heads">HEADS</div>
+                <div class="tails">TAILS</div>
+            </div>
+
+            <button type="button" onclick="PlayGames('heads')">Heads</button>
+            <button type="button" onclick="PlayGames('tails')">Tails</button>
+            <button type="button" onclick="ResetScore()">Rest</button>
+
+        </div>
+
+        <div class="up">
+            <h3 class="game-title" >Game Results</h3>
+            <p class="chose"></p>
+            <p class="resolt"></p>
+            <p class="finalResolt"></p>
+        </div>
+
+    </div>
+
+    <script src="head&tails.js"></script>
+</body>
+
+</html>

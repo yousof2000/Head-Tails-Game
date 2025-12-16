@@ -1,6 +1,6 @@
 # Head & Tails Game
 
-##bMY site is live at:
+## MY site is live at:
 https://yousof2000.github.io/Head-Tails-Game/
 
 ## Description
